@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 😎, I'm David Chuka...
+
+
+*(one sec, I'm working on an update)*
 
 <!--
 **ChuckD30/chuckd30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
