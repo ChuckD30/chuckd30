@@ -5,7 +5,7 @@
 I’m a **Technical Educator & DevRel Lead** who spent the last few years as the Director of Technical Content at Vue Mastery. 
 I translate complex technologies like AI-native workflows, SSR engines, and state management into high-production content that developers actually enjoy consuming.
 
-_In summary, I speak fluent "Developer_
+_In summary, I speak fluent "Developer"_
 
 ---
 
